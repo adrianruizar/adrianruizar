@@ -66,9 +66,9 @@ function App() {
           <p className="text-xl mb-8 text-gray-300">Atleta Olímpico - Código - Diseño - Tecnología</p>
           
           <div className="flex flex-col gap-4 items-center">
-            <a href="mailto:your.email@example.com" className="flex items-center gap-2 hover:text-blue-400 transition-colors">
+            <a href="mailto:adriancabezon@gmail.com" className="flex items-center gap-2 hover:text-blue-400 transition-colors">
               <IconMail size={24} />
-              <span>your.email@example.com</span>
+              <span>adriancabezon@gmail.com</span>
             </a>
             
             <a href="https://github.com/adrianruizar" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-blue-400 transition-colors">
