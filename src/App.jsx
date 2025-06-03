@@ -36,7 +36,7 @@ function App() {
               outModes: {
                 default: "bounce",
               },
-              speed: 2,
+              speed: 0.8, // Reduced from 2 to 0.8 for slower movement
             },
             number: {
               density: {
@@ -57,6 +57,11 @@ function App() {
       
       <div className="absolute inset-0 flex items-center justify-center">
         <div className="text-center p-8 bg-gray-900 bg-opacity-50 rounded-xl backdrop-blur-sm">
+          <img 
+            src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg" 
+            alt="Profile" 
+            className="w-32 h-32 rounded-full mx-auto mb-6 object-cover border-4 border-white/10"
+          />
           <h1 className="text-4xl font-bold mb-6">Adrian Ruiz</h1>
           <p className="text-xl mb-8 text-gray-300">Olympic Athlete & Digital Developer</p>
           
