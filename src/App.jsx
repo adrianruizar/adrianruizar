@@ -63,7 +63,7 @@ function App() {
             className="w-32 h-32 rounded-full mx-auto mb-6 object-cover border-4 border-white/10"
           />
           <h1 className="text-4xl font-bold mb-6">Adrian Ruiz</h1>
-          <p className="text-xl mb-8 text-gray-300">Olympic Athlete & Digital Developer</p>
+          <p className="text-xl mb-8 text-gray-300">Atleta Olímpico - Código - Diseño - Tecnología</p>
           
           <div className="flex flex-col gap-4 items-center">
             <a href="mailto:your.email@example.com" className="flex items-center gap-2 hover:text-blue-400 transition-colors">
