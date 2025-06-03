@@ -58,7 +58,7 @@ function App() {
       <div className="absolute inset-0 flex items-center justify-center">
         <div className="text-center p-8 bg-gray-900 bg-opacity-50 rounded-xl backdrop-blur-sm">
           <img 
-            src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg" 
+            src="https://adrianruiz.ar/img/adrian-ruiz.jpeg" 
             alt="Profile" 
             className="w-32 h-32 rounded-full mx-auto mb-6 object-cover border-4 border-white/10"
           />
