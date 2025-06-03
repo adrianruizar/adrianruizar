@@ -81,9 +81,9 @@ function App() {
               <span>Twitter</span>
             </a>
             
-            <a href="https://adrianruiz.ar" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-blue-400 transition-colors">
+            <a href="https://rosadiorjr.com.ar" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-blue-400 transition-colors">
               <IconWorld size={24} />
-              <span>Portfolio</span>
+              <span>Partner</span>
             </a>
           </div>
         </div>
