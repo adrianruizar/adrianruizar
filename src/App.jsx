@@ -76,12 +76,12 @@ function App() {
               <span>GitHub</span>
             </a>
             
-            <a href="https://twitter.com/yourusername" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-blue-400 transition-colors">
+            <a href="https://x.com/adrianruiz_ar" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-blue-400 transition-colors">
               <IconBrandTwitter size={24} />
               <span>Twitter</span>
             </a>
             
-            <a href="https://yourwebsite.com" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-blue-400 transition-colors">
+            <a href="https://adrianruiz.ar" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-blue-400 transition-colors">
               <IconWorld size={24} />
               <span>Portfolio</span>
             </a>
